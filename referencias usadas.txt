@@ -1,0 +1,8 @@
+Desfocar imagem de fundo.
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_blurred_bg
+
+Criar tela de login
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_login_form
+
+quiz js
+https://www.youtube.com/watch?v=IV34pOplBsY
